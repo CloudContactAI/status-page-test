@@ -1,7 +1,7 @@
-url: https://core-test-cloudcontactai.allcode.com/_health
+url: $CORE_URL
 status: up
 code: 200
-responseTime: 179
-lastUpdated: 2023-01-18T23:16:37.424Z
+responseTime: 86
+lastUpdated: 2023-01-19T14:45:23.685Z
 startTime: Fri Jan 13 2023 22:37:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
