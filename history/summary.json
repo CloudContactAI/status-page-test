@@ -4,18 +4,20 @@
     "url": "$CORE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "core",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 147,
-    "timeWeek": 159,
-    "timeMonth": 164,
-    "timeYear": 164,
-    "dailyMinutesDown": {}
+    "time": 162,
+    "timeDay": 138,
+    "timeWeek": 156,
+    "timeMonth": 162,
+    "timeYear": 162,
+    "dailyMinutesDown": {
+      "2023-01-24": 0
+    }
   },
   {
     "name": "Auth",
